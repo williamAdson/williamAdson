@@ -1,27 +1,95 @@
-<h1 align="center">Hello 👋, I am Adson</h1>
-<h3 align="center">A am software engineer who is really passionate and welcoming to new challenges and adventures.</h3>
+<h1 align="center">Hello! Adson here.</h1>
+'''
+'''
+  Highly dedicated and detail-oriented Bachelors graduate seeking an entry-level position to apply acquired knowledge and skills in web development. I am looking forward to contribute to a dynamic organization and gain valuable industry experience while continuously learning and growing professionally.
+'''
+'''
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamadson&label=Profile%20views&color=0e75b6&style=flat" alt="williamadson" /> </p>
 
-- 🔭 I’m currently working on [languagePartner](coming soon)
+<details>
+<summary>- 🔭 I’m currently working on</summary>
+'''
+  <a href="#" target="blank">consultancy website</a>
 
-- 🌱 I’m currently learning **kubernetes and docker**
+</details>
 
-- 👯 I’m looking to collaborate on [javascript projects](coming soon)
+<details>
+<summary>- 🌱 I’m currently learning</summary>
+'''
+  > pursueing M.S in Software Engineering.
 
-- 🤝 I’m looking for help with [delivery-system](coming soon)
+</details>
+<details>
+<summary>- 👯 I’m looking to collaborate on</summary>
+'''
+  > web development projects
+  > networking labs
+  > hackathons
+  >open souce projects
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+</details>
 
-- 📝 I regularly write articles on [coming soon](coming soon)
 
-- 💬 Ask me about **html, css, javascript, nodejs, expressjs, mongodb, mysql, python**
+<details>
+<summary>- 🤝 I’m looking for help with</summary>
+'''
+  > web development projects
+  
+  |frontend |backend|
+  |---|---|
+  |javascript| nodejs|
+  |html|expressjs|
+  |css|socket.io|
+  |react|mongodb|
+  |typescript|mysql|
+  |nextjs|sequelize|
 
-- 📫 How to reach me **adsonwilliambanda@gmail.com**
+  > data analysis & machine learning project
 
-- 📄 Know about my experiences [coming soon](coming soon)
+  |language| python |
+  |---|---|
+  |numpy| pandas|
+  |matplotlib||
 
-- ⚡ Fun fact **I'm looking for people to work on projects together.**
+</details>
+
+<details>
+<summary>- 💬 Ask me about</summary>
+---
+  > skills categorized according to how proficient I am. 
+
+| Proficient | Decent |
+|-----:|-----------|
+|     Javascript | TypeScript |
+|     Mysql      |    React   |
+|     MongoDB    | Handlebars |
+|     NodeJS     | HTMLS      |
+|     Express    | CSS        |
+|     Python     | Pandas     |
+|     Git        | Numpy      |
+</details>
+
+<details>
+<summary>- 📫 How to reach me</summary>
+williambandawilly1@gmail.com
+</details>
+
+<details>
+<summary>- 📄 Know about my experiences</summary>
+'''
+
+'''
+</details>
+
+<details>
+<summary>- ⚡ Fun fact</summary>
+'''
+'''
+  looking for a enthusiastic people dedicated to making the internet a secure and safe environment.
+'''
+'''
+</details>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
