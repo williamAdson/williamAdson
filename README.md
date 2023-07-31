@@ -6,20 +6,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamadson&label=Profile%20views&color=0e75b6&style=flat" alt="williamadson" /> </p>
 
 <details>
-<summary>- 🔭 I’m currently working on</summary>
+<summary>I’m currently working on🔭</summary>
   
   > <a href="#" target="blank">consultancy website</a>
 
 </details>
 
 <details>
-<summary>- 🌱 I’m currently learning</summary>
+<summary>I’m currently learning🌱</summary>
   
   > pursueing M.S in Software Engineering.
 
 </details>
 <details>
-<summary>- 👯 I’m looking to collaborate on</summary>
+<summary>I’m looking to collaborate on 👯 </summary>
   
   > web development projects
 
@@ -33,7 +33,7 @@
 
 
 <details>
-<summary>- 🤝 I’m looking for help with</summary>
+<summary>I’m looking for help with🤝 </summary>
   
   >  functional testing
   
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-<summary>- 💬 Ask me about</summary>
+<summary>Ask me about💬</summary>
   
   > full stack web development skills.
 
@@ -59,14 +59,14 @@
 </details>
 
 <details>
-<summary>- 📫 How to reach me</summary>
+<summary>How to reach me 📫 </summary>
   
   > williambandawilly1@gmail.com
   
 </details>
 
 <details>
-<summary>- 📄 Know about my experiences</summary>
+<summary>Know about my experiences📄 </summary>
   
 |position|institute|department|
 |---|---|---|
@@ -103,7 +103,7 @@
 </details>
 
 <details>
-<summary>- ⚡ Fun fact</summary>
+<summary>Fun fact⚡ </summary>
   
   > looking for highly enthusiastic people dedicated to making the internet a secure and safe environment.
   
