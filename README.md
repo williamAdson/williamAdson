@@ -1,94 +1,112 @@
 <h1 align="center">Hello! Adson here.</h1>
-'''
-'''
-  Highly dedicated and detail-oriented Bachelors graduate seeking an entry-level position to apply acquired knowledge and skills in web development. I am looking forward to contribute to a dynamic organization and gain valuable industry experience while continuously learning and growing professionally.
-'''
-'''
+
+> Highly dedicated and detail-oriented Bachelors graduate seeking an entry-level position to apply acquired knowledge and skills in web development. I am looking forward to contribute to a dynamic organization and gain valuable industry experience while continuously learning and growing professionally.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamadson&label=Profile%20views&color=0e75b6&style=flat" alt="williamadson" /> </p>
 
 <details>
 <summary>- 🔭 I’m currently working on</summary>
-'''
-  <a href="#" target="blank">consultancy website</a>
+  
+  > <a href="#" target="blank">consultancy website</a>
 
 </details>
 
 <details>
 <summary>- 🌱 I’m currently learning</summary>
-'''
+  
   > pursueing M.S in Software Engineering.
 
 </details>
 <details>
 <summary>- 👯 I’m looking to collaborate on</summary>
-'''
+  
   > web development projects
+
   > networking labs
+
   > hackathons
-  >open souce projects
+
+  > open souce projects
 
 </details>
 
 
 <details>
 <summary>- 🤝 I’m looking for help with</summary>
-'''
-  > web development projects
   
-  |frontend |backend|
-  |---|---|
-  |javascript| nodejs|
-  |html|expressjs|
-  |css|socket.io|
-  |react|mongodb|
-  |typescript|mysql|
-  |nextjs|sequelize|
-
-  > data analysis & machine learning project
-
-  |language| python |
-  |---|---|
-  |numpy| pandas|
-  |matplotlib||
+  >  functional testing
+  
+  >  cloud computing
+ 
+  >  container technology
 
 </details>
 
 <details>
 <summary>- 💬 Ask me about</summary>
----
-  > skills categorized according to how proficient I am. 
+  
+  > full stack web development skills.
 
-| Proficient | Decent |
-|-----:|-----------|
-|     Javascript | TypeScript |
-|     Mysql      |    React   |
-|     MongoDB    | Handlebars |
-|     NodeJS     | HTMLS      |
-|     Express    | CSS        |
-|     Python     | Pandas     |
-|     Git        | Numpy      |
+| Languages | Frameworks | Tools |
+|---|---|---|
+|     Javascript | TypeScript | Python |
+|     NodeJS      |    React   | ExpressJs |
+|     HTML       |    CSS     | Handlebars|
+|     MySQL    |    Sequelize | Mongodb |
+|     Pandas    |   Numpy   | Git |
+
 </details>
 
 <details>
 <summary>- 📫 How to reach me</summary>
-williambandawilly1@gmail.com
+  
+  > williambandawilly1@gmail.com
+  
 </details>
 
 <details>
 <summary>- 📄 Know about my experiences</summary>
-'''
+  
+|position|institute|department|
+|---|---|---|
+|Sep 2022 - Dec 2022|---|---|
+|Office Intern|Zunyi Normal University|School of International Education|
+  |Sep 2020 -Jun 2021|---|---|
+|Network Administrator|Zunyi Normal University|School of Information Engineering|
 
-'''
+### Projects worked on:
+> web development projects
+
+  > language companion
+
+  | |technologies||
+  |---|---|---|
+  |nodejsjs|expressjs|mongodb|
+  |handlebars|html|css|
+
+  > wakwane-consultancy-frontend
+
+  | |technologies||
+  |---|---|---|
+  |nextjs| react |typescript|
+  |jsx|axios|css|
+
+  > wgc-consulting-backend
+
+  | |technologies||
+  |---|---|---|
+  |nodejs| expressjs |mysql|
+  |sequelize|passportjs||
+  
+
 </details>
 
 <details>
 <summary>- ⚡ Fun fact</summary>
-'''
-'''
-  looking for a enthusiastic people dedicated to making the internet a secure and safe environment.
-'''
-'''
+  
+  > looking for highly enthusiastic people dedicated to making the internet a secure and safe environment.
+  
 </details>
 
 ### Blogs posts
