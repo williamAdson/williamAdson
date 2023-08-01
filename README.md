@@ -8,7 +8,7 @@
 <details>
 <summary>I’m currently working on🔭</summary>
   
-  > <a href="#" target="blank">consultancy website</a>
+  > <a href="https://shiny-sfogliatella-e6746f.netlify.app/" target="blank">consultancy website</a>
 
 </details>
 
