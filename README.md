@@ -1,127 +1,111 @@
-<h1 align="center">Hello! Adson here.</h1>
+<h1 align="center">William Adson Banda</h1>
 
-> Highly dedicated and detail-oriented Bachelors graduate seeking an entry-level position to apply acquired knowledge and skills in web development. I am looking forward to contribute to a dynamic organization and gain valuable industry experience while continuously learning and growing professionally.
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=williamadson&label=Profile%20views&color=0e75b6&style=flat" alt="williamadson" /> </p>
-
-<details>
-<summary>I’m currently working on🔭</summary>
-  
-  > <a href="https://shiny-sfogliatella-e6746f.netlify.app/" target="blank">consultancy website</a>
-
-</details>
-
-<details>
-<summary>I’m currently learning🌱</summary>
-  
-  > pursueing M.S in Software Engineering.
-
-</details>
-<details>
-<summary>I’m looking to collaborate on 👯 </summary>
-  
-  > web development projects
-
-  > networking labs
-
-  > hackathons
-
-  > open souce projects
-
-</details>
-
-
-<details>
-<summary>I’m looking for help with🤝 </summary>
-  
-  >  functional testing
-  
-  >  cloud computing
- 
-  >  container technology
-
-</details>
-
-<details>
-<summary>Ask me about💬</summary>
-  
-  > full stack web development skills.
-
-| Languages | Frameworks | Tools |
-|---|---|---|
-|     Javascript | TypeScript | Python |
-|     NodeJS      |    React   | ExpressJs |
-|     HTML       |    CSS     | Handlebars|
-|     MySQL    |    Sequelize | Mongodb |
-|     Pandas    |   Numpy   | Git |
-
-</details>
-
-<details>
-<summary>How to reach me 📫 </summary>
-  
-  > williambandawilly1@gmail.com
-  
-</details>
-
-<details>
-<summary>Know about my experiences📄 </summary>
-  
-|position|institute|department|
-|---|---|---|
-|Sep 2022 - Dec 2022|---|---|
-|Office Intern|Zunyi Normal University|School of International Education|
-  |Sep 2020 -Jun 2021|---|---|
-|Network Administrator|Zunyi Normal University|School of Information Engineering|
-
-### Projects worked on:
-> web development projects
-
-  > language companion
-
-  | |technologies||
-  |---|---|---|
-  |nodejsjs|expressjs|mongodb|
-  |handlebars|html|css|
-
-  > wakwane-consultancy-frontend
-
-  | |technologies||
-  |---|---|---|
-  |nextjs| react |typescript|
-  |jsx|axios|css|
-
-  > wgc-consulting-backend
-
-  | |technologies||
-  |---|---|---|
-  |nodejs| expressjs |mysql|
-  |sequelize|passportjs||
-  
-
-</details>
-
-<details>
-<summary>Fun fact⚡ </summary>
-  
-  > looking for highly enthusiastic people dedicated to making the internet a secure and safe environment.
-  
-</details>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/adson59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adson59" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14766006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14766006" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adson59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adson59" height="30" width="40" /></a>
+<p align="center">
+  <strong>Blockchain Security Researcher · Smart Contract Security Engineer · AI Security Engineer</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  Ph.D. Researcher in Information Security | MSc in Software Engineering
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamadson&show_icons=true&locale=en&layout=compact" alt="williamadson" /></p>
+<p align="center">
+  <a href="mailto:williambandawilly1@gmail.com">Email</a>
+  ·
+  <a href="https://dev.to/adson59">Dev.to</a>
+  ·
+  <a href="https://stackoverflow.com/users/14766006">Stack Overflow</a>
+  ·
+  <a href="https://www.leetcode.com/adson59">LeetCode</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=williamadson&show_icons=true&locale=en" alt="williamadson" /></p>
+---
+
+## About me
+
+I am a Ph.D. researcher in Information Security with an MSc in Software Engineering at Southwest University of Science and Technology (SWUST). My research focuses on the intersection of:
+
+- Blockchain and Ethereum security
+- Smart-contract analysis and vulnerability detection
+- AI security and trustworthy intelligent systems
+
+I build reproducible research tooling and security-oriented software for analyzing Ethereum addresses, transaction graphs, deployed smart contracts, bytecode, and behavioral patterns for decentralized financial systems.
+
+I am particularly interested in turning security research into practical, open, well-documented tools that other researchers, auditors, protocol teams, and developers can use.
+
+## What I do
+
+My current research and engineering efforts center on building automated, data-driven methods for the analysis of decentralized systems (i.e. Ethereum on On-Chain & Off-Chain malicious behavior). I combine blockchain analytics, graph-based representations, and machine learning to support security tasks such as vulnerability detection, malicious-entity identification, and forensic analysis.
+
+- Developing research methods and tools for Ethereum address and smart-contract analysis
+- Building machine-learning pipelines for blockchain-security classification tasks
+- Investigating graph-based and bytecode-level representations for identifying malicious or suspicious on-chain behavior
+- Designing reproducible experiments for security datasets, model evaluation, and threshold analysis
+- Exploring automation and AI-assisted workflows for security research and smart-contract auditing
+
+## What I know
+
+My technical stack spans blockchain and smart-contract tooling, security research methods, machine-learning workflows, and general software-engineering practices. I prioritize technologies that enable reproducible experiments, scalable data processing, and robust security analysis.
+
+### Blockchain and smart contracts
+
+`Ethereum` · `EVM` · `Solidity` · `Smart Contract Analysis` · `Bytecode Analysis` · `Web3` · `Blockchain Forensics` · `On-chain Analytics`
+
+### Security and research
+
+`Information Security` · `Smart Contract Security` · `Vulnerability Analysis` · `Threat Detection` · `Security Automation` · `Data Engineering` · `Reproducible Research`
+
+### Machine learning and data
+
+`Python` · `Machine Learning` · `Deep Learning` · `Graph Machine Learning` · `Data Mining` · `Big Data Analytics` · `Pandas` · `NumPy` · `Jupyter Notebook`
+
+### Engineering tools
+
+`Git` · `Linux` · `Bash` · `Docker` · `SQL` · `MySQL` · `MongoDB` · `Node.js` · `JavaScript` · `TypeScript`
+
+## What have I worked on
+
+The repositories below highlight my most relevant work for blockchain security, smart-contract analysis, and AI security roles. They demonstrate end-to-end pipelines from data collection and preprocessing to modeling, evaluation, and documentation. I prioritize projects that are reproducible, well-documented, and useful to other researchers and engineers.
+
+| Project | Focus | What it demonstrates |
+|---|---|---|
+| [UECGraphScanner](https://github.com/williamadson/uecgraphscanner_training_environment) | Ethereum graph analysis | Blockchain analytics, graph construction, address behavior analysis, and reproducible research tooling |
+| [TokenGuard](https://github.com/williamadson/TokenGuard) | Contract and bytecode analysis | Smart-contract security, EVM analysis, vulnerability research, and security automation |
+| [HydroLedger](https://github.com/williamadson/hydroledger-user-interface) | Security classification | ML experimentation, feature engineering, evaluation methodology, and malicious-entity detection |
+| [Security Research Notebooks](https://github.com/williamadson/SemoCFGs) | Reproducible experiments | Python, data analysis, experimental design, documentation, and research reproducibility |
+
+## What I value
+
+My approach to research and engineering is guided by a set of principles aimed at producing reliable, impactful, and ethically sound security work. These values shape how I design experiments, build tools, and collaborate with others.
+
+- Clear problem definitions and threat models
+- Reproducible experiments and transparent evaluation
+- Security tools that are useful beyond a single paper or prototype
+- Responsible disclosure and ethical security research
+- Open collaboration between researchers, protocol teams, auditors, and developers
+
+## Contact
+
+You can reach me via email or connect with me on the platforms below. I am especially interested in discussions about blockchain security research, smart-contract auditing, AI security, and collaborative projects that combine these areas.
+
+- Email: [williambandawilly1@gmail.com](mailto:williambandawilly1@gmail.com)
+- Dev.to: [@adson59](https://dev.to/adson59)
+- Stack Overflow: [Adson William](https://stackoverflow.com/users/14766006)
+- LeetCode: [@adson59](https://www.leetcode.com/adson59)
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=williamadson&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=williamadson&show_icons=true&locale=en&hide_title=true"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=williamadson&show_icons=true&locale=en&layout=compact"
+    alt="Most used languages"
+  />
+</p>
