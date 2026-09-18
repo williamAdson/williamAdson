@@ -34,7 +34,7 @@ I am particularly interested in turning security research into practical, open, 
 
 ## What I do
 
-My current research and engineering efforts center on building automated, data-driven methods for the analysis of decentralized systems (i.e. Ethereum on On-Chain & Off-Chain malicious behavior). I combine blockchain analytics, graph-based representations, and machine learning to support security tasks such as vulnerability detection, malicious-entity identification, and forensic analysis.
+My current research and engineering efforts center on building automated, data-driven methods for the analysis of decentralized systems (i.e. Ethereum On-Chain & Off-Chain malicious behavior). I combine blockchain analytics, graph-based representations, and machine learning to support security tasks such as vulnerability detection, malicious-entity identification, and forensic analysis.
 
 - Developing research methods and tools for Ethereum address and smart-contract analysis
 - Building machine-learning pipelines for blockchain-security classification tasks
@@ -75,7 +75,7 @@ The repositories below highlight my most relevant work for blockchain security, 
 
 ## What I value
 
-My approach to research and engineering is guided by a set of principles aimed at producing reliable, impactful, and ethically sound security work. These values shape how I design experiments, build tools, and collaborate with others.
+My approach to research and engineering is guided by a set of principles aimed at producing reliable, impactful, and ethical information security work. These values shape how I design experiments, build tools, and collaborate with others.
 
 - Clear problem definitions and threat models
 - Reproducible experiments and transparent evaluation
