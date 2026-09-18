@@ -22,7 +22,7 @@
 
 ## About me
 
-I am a Ph.D. researcher in Information Security with an MSc in Software Engineering at Southwest University of Science and Technology (SWUST). My research focuses on the intersection of:
+I am a Ph.D. researcher in Information Security with an MSc in Software Engineering from Southwest University of Science and Technology (SWUST). My research focuses on the intersection of:
 
 - Blockchain and Ethereum security
 - Smart-contract analysis and vulnerability detection
