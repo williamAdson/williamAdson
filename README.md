@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:williambandawilly1@gmail.com">Email</a>
+  <a href="mailto:adsonwilliambanda@gmail.com">Email</a>
   ·
   <a href="https://dev.to/adson59">Dev.to</a>
   ·
@@ -87,7 +87,7 @@ My approach to research and engineering is guided by a set of principles aimed a
 
 You can reach me via email or connect with me on the platforms below. I am especially interested in discussions about blockchain security research, smart-contract auditing, AI security, and collaborative projects that combine these areas.
 
-- Email: [williambandawilly1@gmail.com](mailto:williambandawilly1@gmail.com)
+- Email: [adsonwilliambanda@gmail.com](mailto:adsonwilliambanda@gmail.com)
 - Dev.to: [@adson59](https://dev.to/adson59)
 - Stack Overflow: [Adson William](https://stackoverflow.com/users/14766006)
 - LeetCode: [@adson59](https://www.leetcode.com/adson59)
