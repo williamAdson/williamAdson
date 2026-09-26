@@ -22,11 +22,11 @@
 
 ## About me
 
-I am a Ph.D. researcher in Information Security with an MSc in Software Engineering from Southwest University of Science and Technology (SWUST). My research focuses on the intersection of:
+I am a blockchain and LLM security engineer with an MSc in Software Engineering. My research focuses on the intersection of:
 
 - Blockchain and Ethereum security
 - Smart-contract analysis and vulnerability detection
-- AI security and trustworthy intelligent systems
+- LLM security and trustworthy intelligent systems
 
 I build reproducible research tooling and security-oriented software for analyzing Ethereum addresses, transaction graphs, deployed smart contracts, bytecode, and behavioral patterns for decentralized financial systems.
 
